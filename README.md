@@ -4,7 +4,9 @@ A simple node application to list the number frequency in lotto results.
 
 Sample Output:
 
-    craig@laptop:~/node/lotto-frequency$ node app.js
+    craig@laptop:~/lotto-frequency$ npm install
+    ...
+    craig@laptop:~/lotto-frequency$ npm start
     48 appears 278 times
     30 appears 271 times
     23 appears 270 times

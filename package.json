@@ -3,11 +3,11 @@
   "version": "1.0.1",
   "description": "Calculate frequency of Lotto numbers given historical results",
   "main": "main.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Craig van Tonder",
+  "license": "MIT",
+  "scripts" : {
+    "start": "node main.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21",
     "xlsx": "^0.18.5"
