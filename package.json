@@ -1,7 +1,7 @@
 {
   "name": "lotto",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Calculate frequency of Lotto numbers given historical results",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,8 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "mysql": "^2.15.0",
-    "xlsx": "^0.11.17"
+    "lodash": "^4.17.21",
+    "xlsx": "^0.18.5"
   }
 }
